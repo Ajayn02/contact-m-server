@@ -1,0 +1,59 @@
+{
+  "contacts": [
+    {
+      "name": "Ajay",
+      "mobile": "8606865580",
+      "id": 1
+    },
+    {
+      "name": "arjun",
+      "mobile": "7378896844",
+      "id": 2
+    }
+  ],
+  "category": [
+    {
+      "categoryID": "1",
+      "name": "Work",
+      "cdata": [
+        {
+          "name": "arjun",
+          "mobile": "73788968",
+          "id": 2
+        },
+        {
+          "name": "Ajay",
+          "mobile": "8606865580",
+          "id": 1
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "users": [
+    {
+      "username": "ajay",
+      "email": "ajay@gmail.com",
+      "password": "1234",
+      "id": 1
+    },
+    {
+      "username": "ajay",
+      "email": "ajay1@gmail.com",
+      "password": "1234",
+      "id": 2
+    },
+    {
+      "username": "abi",
+      "email": "abi@gmail.com",
+      "password": "1234",
+      "id": 3
+    },
+    {
+      "username": "user",
+      "email": "user@gmail.com",
+      "password": "1234",
+      "id": 4
+    }
+  ]
+}
